@@ -1,0 +1,9 @@
+﻿  user_hid.cpp
+d:\document\wacom-sherpa\user_hid\user_hid\user_hid.cpp(38): warning C4018: '<': signed/unsigned 不相符
+d:\document\wacom-sherpa\user_hid\user_hid\user_hid.cpp(23): warning C4101: 'numberOfBytesWrite': 未參考的區域變數
+user_hid.obj : error LNK2019: 無法解析的外部符號 __imp_SetupDiEnumDeviceInterfaces 在函式 "int __cdecl find_device(unsigned int,unsigned int)" (?find_device@@YAHII@Z) 中被參考
+user_hid.obj : error LNK2019: 無法解析的外部符號 __imp_SetupDiGetDeviceInterfaceDetailW 在函式 "int __cdecl find_device(unsigned int,unsigned int)" (?find_device@@YAHII@Z) 中被參考
+user_hid.obj : error LNK2019: 無法解析的外部符號 __imp_SetupDiGetClassDevsW 在函式 "int __cdecl find_device(unsigned int,unsigned int)" (?find_device@@YAHII@Z) 中被參考
+user_hid.obj : error LNK2019: 無法解析的外部符號 HidD_GetAttributes 在函式 "int __cdecl find_device(unsigned int,unsigned int)" (?find_device@@YAHII@Z) 中被參考
+user_hid.obj : error LNK2019: 無法解析的外部符號 HidD_GetHidGuid 在函式 "int __cdecl find_device(unsigned int,unsigned int)" (?find_device@@YAHII@Z) 中被參考
+D:\Document\wacom-Sherpa\user_hid\x64\Debug\user_hid.exe : fatal error LNK1120: 5 個無法解析的外部符號

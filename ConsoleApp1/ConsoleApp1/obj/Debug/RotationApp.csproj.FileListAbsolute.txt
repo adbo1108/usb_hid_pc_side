@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\RotationApp.exe.config
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\RotationApp.exe
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\RotationApp.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\RotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\RotationApp.exe
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\RotationApp.pdb

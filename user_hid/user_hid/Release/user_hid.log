@@ -1,0 +1,9 @@
+﻿  user_hid.cpp
+d:\document\wacom-sherpa\user_hid\user_hid\user_hid.cpp(22): warning C4101: 'numberOfBytesRead': 未參考的區域變數
+d:\document\wacom-sherpa\user_hid\user_hid\user_hid.cpp(23): warning C4101: 'numberOfBytesWrite': 未參考的區域變數
+user_hid.obj : error LNK2001: 無法解析的外部符號 _HidD_GetHidGuid@4
+user_hid.obj : error LNK2001: 無法解析的外部符號 __imp__SetupDiGetClassDevsW@16
+user_hid.obj : error LNK2001: 無法解析的外部符號 __imp__SetupDiEnumDeviceInterfaces@20
+user_hid.obj : error LNK2001: 無法解析的外部符號 __imp__SetupDiGetDeviceInterfaceDetailW@24
+user_hid.obj : error LNK2001: 無法解析的外部符號 _HidD_GetAttributes@8
+D:\Document\wacom-Sherpa\user_hid\Release\user_hid.exe : fatal error LNK1120: 5 個無法解析的外部符號
